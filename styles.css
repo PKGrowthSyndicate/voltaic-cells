@@ -893,6 +893,17 @@ h4 { font-size: 1.1rem; margin-bottom: 0.5rem; }
     color: #457B9D;
 }
 
+.bib-entry a {
+    color: #F1FAEE;
+    text-decoration: none;
+    word-break: break-all;
+}
+
+.bib-entry a:hover {
+    color: #FFD700;
+    text-decoration: underline;
+}
+
 /* Footer */
 .footer {
     background: #1D3557;
